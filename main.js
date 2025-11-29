@@ -22,4 +22,3 @@ loginBtn.addEventListener('click', () => {
 });
 
 
-//add some thing new
